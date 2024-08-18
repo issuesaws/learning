@@ -1,0 +1,54 @@
+https://www.youtube.com/playlist?list=PLl4APkPHzsUXvkDFARdrH2LMESVqeuH8W         ( GCP Learning youtube tutorial )
+-----------------------------------------------------------------------------
+https://www.linkedin.com/pulse/how-run-terraform-script-jenkins-step-by-step-guide-praveen-dandu/
+https://blog.devops.dev/how-to-include-a-manual-approval-step-in-jenkins-pipeline-85056d6bac97
+
+https://thelinuxnotes.com/index.php/how-to-make-manual-approval-in-jenkins-pipeline-and-notify-in-telegram/
+https://stackoverflow.com/questions/66555822/jenkins-terraform-cant-destroy-any-instances
+
+https://www.baeldung.com/ops/jenkins-pipeline-skip-stage
+
+====================================================================================
+
+Terraform install on ubuntu :
+
+https://askubuntu.com/questions/983351/how-to-install-terraform-in-ubuntu
+
+
+ubuntu@ip-172-31-40-133:~$ history
+    1  sudo apt-get update
+    2  apt install openjdk-17-jdk -y
+    3  sudo apt install openjdk-17-jdk -y
+    4  java -v
+    5  java --version
+    6  sudo apt-get install terraform -y
+    7  sudo apt-get update
+    8  sudo apt-get upgrade
+    9  sudo apt-get install terraform -y
+   10  sudo apt-get install unzip
+   11  https://www.terraform.io/downloads.html
+   12  wget https://www.terraform.io/downloads.html
+   13  wget https://releases.hashicorp.com/terraform/1.0.7/terraform_1.0.7_linux_amd64.zip
+   14  unzip terraform_1.0.7_linux_amd64.zip
+   15  sudo mv terraform /usr/local/bin/
+   16  terraform --version
+   17  history
+ubuntu@ip-172-31-40-133:~$
+
+--------------------------------------------------------------
+---------------------------------------------------------------
+
+WOODY INSTALLATION USING SHELL SCRIPT :
+---------------------------------------
+
+#!/bin/sh
+sudo apt update
+sudo apt install nginx unzip -y
+cd /tmp
+wget https://www.free-css.com/assets/files/free-css-templates/download/page294/woody.zip
+unzip woody.zip
+sudo mv carpenter-website-template/ /var/www/html/woody
+# Now navigate to http://<public-ip>/woody
+
+===================================================================
+
