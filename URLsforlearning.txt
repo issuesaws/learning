@@ -52,3 +52,7 @@ sudo mv carpenter-website-template/ /var/www/html/woody
 
 ===================================================================
 
+K8's interview questions :
+--------------------------
+
+https://medium.com/@SahanaGhosh8/mastering-kubernetes-top-10-interviewer-scenarios-with-real-time-hands-on-solutions-4f8ced553922
