@@ -63,3 +63,11 @@ https://spacelift.io/blog/terraform-gitignore
 https://github.com/github/gitignore/blob/main/Terraform.gitignore
 https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config
 https://spacelift.io/blog/terraform-aws-vpc ( VPC with terraform)
+
+3-TIER ARCHITECHRE USING TERRAFORM IN AWS :
+--------------------------------------------
+https://github.com/BJWRD/three-tier-architecture/blob/main/main.tf 
+https://github.com/harshitadwivedi1199/3-tier-architecture-on-aws-using-terraform
+https://github.com/DhruvinSoni30/Terraform-AWS-3tier-Architecture 
+
+
