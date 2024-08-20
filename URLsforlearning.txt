@@ -70,4 +70,4 @@ https://github.com/BJWRD/three-tier-architecture/blob/main/main.tf
 https://github.com/harshitadwivedi1199/3-tier-architecture-on-aws-using-terraform
 https://github.com/DhruvinSoni30/Terraform-AWS-3tier-Architecture 
 
-
+https://github.com/DhruvinSoni30/Terraform-AWS-3tier-Architecture/tree/main ( TerraformCode Simplified )
