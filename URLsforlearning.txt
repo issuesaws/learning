@@ -56,3 +56,10 @@ K8's interview questions :
 --------------------------
 
 https://medium.com/@SahanaGhosh8/mastering-kubernetes-top-10-interviewer-scenarios-with-real-time-hands-on-solutions-4f8ced553922
+
+https://spacelift.io/blog/terraform-alb
+https://medium.com/@akilblanchard09/creating-aws-ec2-instances-with-ssh-access-using-terraform-f9c3c2996cbd
+https://spacelift.io/blog/terraform-gitignore
+https://github.com/github/gitignore/blob/main/Terraform.gitignore
+https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config
+https://spacelift.io/blog/terraform-aws-vpc ( VPC with terraform)
